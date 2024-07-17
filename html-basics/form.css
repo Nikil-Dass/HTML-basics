@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: url(image/milky-way-2695569_1280\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+   
+p{
+    font-size: 50px;
+    width: 50vh;
+    color: aliceblue;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.container{
+    height:65vh;
+    width: 45vh;   
+    background-color: rgb(99, 90, 151);
+    border: 3px solid rgb(241, 237, 237);
+    text-align: left;
+    margin-left: 450px;
+    margin-top: 60px;
+}
+.inputdata{
+    margin: 50px;
+}
+.inputdata label{
+    display: block;
+    margin: 5px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.inputdata input{
+    padding: 7px;
+    margin: 10px;
+}
+.btn button{
+    background-color: rgb(178, 32, 214);
+    padding: 10px;
+    width: 90px;
+    margin-left: 90px;
+}
+.btn button:hover{
+    background-color: rgb(7, 108, 250);
+}

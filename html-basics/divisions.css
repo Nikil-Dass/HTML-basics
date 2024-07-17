@@ -1,0 +1,43 @@
+.hi{
+    height: 40vh;
+    width: 40vh;
+    background-color: bisque;
+    border: 5px solid black;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+.bye{
+    padding: 5vh;
+}
+.sec{
+    height: 40vh;
+    width: 40vh;
+    background-color: rgb(229, 132, 15);
+    border: 5px solid black;
+    margin-left: 600px;
+    margin-top: -300px;
+   
+    
+}
+.sec1{
+    padding: 5vh;
+}
+.third{
+    height: 40vh;
+    width: 40vh;
+    background-color: rgb(173, 33, 52);
+    border: 5px solid black;
+    margin-left: 1200px;
+    margin-top: -300px;
+
+   
+   
+    
+    
+   
+    
+}
+.third1{
+    padding: 5vh;
+}

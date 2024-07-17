@@ -1,0 +1,25 @@
+.overall >div{
+    display:inline-block;
+}
+.one{
+    height: 40vh;
+    width: 40vh;
+    border: 4px solid black;
+ 
+}
+.two{
+    height: 40vh;
+    width: 40vh;
+    border: 4px solid black;
+}
+.three{
+    height: 40vh;
+    width: 40vh;
+    border: 4px solid black;
+    visibility: hidden;
+}
+.four{
+    height: 40vh;
+    width: 40vh;
+    border: 4px solid black;
+}

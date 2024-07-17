@@ -1,0 +1,17 @@
+body{
+    background-image: url(image/th\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hi{
+    color: aqua;
+    font-family: cursive;
+}
+.bye{
+    color: rgb(0, 255, 89);
+    font-family: cursive;
+}
+p{
+    color: rgb(215, 92, 61);
+    font-size: 55px;
+}

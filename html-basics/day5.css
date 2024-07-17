@@ -1,0 +1,19 @@
+table{
+    height:50vh;
+    width:70vh;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+
+table,th,td{
+    border: solid black 2px;
+    border-collapse: collapse;
+}   
+
+th{
+background-color: rgb(100, 15, 237);
+}
+
+td{
+    background-color: rgb(107, 175, 214);
+}
